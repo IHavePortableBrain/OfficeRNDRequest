@@ -1,9 +1,6 @@
 ﻿using RestSharp;
 using System;
 using Newtonsoft.Json;
-using System.Reflection;
-using System.Collections.Generic;
-using System.Linq;
 using Newtonsoft.Json.Linq;
 
 namespace OfficeRNDRequest
